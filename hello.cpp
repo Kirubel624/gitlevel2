@@ -20,6 +20,6 @@ void sum()
         cin>>n;
         sum+=n;
     }
-    cout<<"sum is: "<< sum<<endl<<endl;
+    cout<<"sum is of the nos is: "<< sum<<endl<<endl;
 
     }
